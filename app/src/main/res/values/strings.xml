@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Homework2</string>
+    <string name="Email">Email</string>
+    <string name="Password">Passwod</string>
+    <string name="LOGIN">LOGIN</string>
+    <string name="LoginToYourAccount">Login To Your Account</string>
+    <string name="Donthaveanaccount">Don\'t have an account?</string>
+    <string name="Register">Register</string>
+</resources>
